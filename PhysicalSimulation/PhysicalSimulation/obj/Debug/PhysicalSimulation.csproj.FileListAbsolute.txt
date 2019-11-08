@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\PhysicalSimulation\PhysicalSimulation\bin\Debug\PhysicalSimulation.exe.config
+C:\Users\hp\source\repos\PhysicalSimulation\PhysicalSimulation\bin\Debug\PhysicalSimulation.exe
+C:\Users\hp\source\repos\PhysicalSimulation\PhysicalSimulation\bin\Debug\PhysicalSimulation.pdb
+C:\Users\hp\source\repos\PhysicalSimulation\PhysicalSimulation\obj\Debug\PhysicalSimulation.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\PhysicalSimulation\PhysicalSimulation\obj\Debug\PhysicalSimulation.Form1.resources
+C:\Users\hp\source\repos\PhysicalSimulation\PhysicalSimulation\obj\Debug\PhysicalSimulation.Properties.Resources.resources
+C:\Users\hp\source\repos\PhysicalSimulation\PhysicalSimulation\obj\Debug\PhysicalSimulation.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\PhysicalSimulation\PhysicalSimulation\obj\Debug\PhysicalSimulation.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PhysicalSimulation\PhysicalSimulation\obj\Debug\PhysicalSimulation.exe
+C:\Users\hp\source\repos\PhysicalSimulation\PhysicalSimulation\obj\Debug\PhysicalSimulation.pdb
